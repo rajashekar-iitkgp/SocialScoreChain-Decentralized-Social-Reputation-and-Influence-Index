@@ -15,12 +15,7 @@ To shift social trust and influence metrics from centralized platforms to transp
 - ✅ One vote per voter per user
 - 📈 Real-time score adjustments based on activity
 
-## 🔮 Future Scope
 
-- DAO-based moderation and score validation
-- NFT badges for reaching influence milestones
-- Cross-platform integrations via oracles
-- Social graph analytics and visualization
 
 ## 📜 Contract Details
 0x27267520625dD7E39aeC5aDA50A7c1E4ae3420bf
