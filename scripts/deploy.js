@@ -7,7 +7,7 @@ async function main() {
   const socialScore = await SocialScoreChain.deploy();
   await socialScore.deployed();
 
-  console.log("SocialScoreChain deployed to:", socialScore.address);
+  console.log("SocialScoreChain deployed here:", socialScore.address);
 }
 
 main().catch((error) => {
