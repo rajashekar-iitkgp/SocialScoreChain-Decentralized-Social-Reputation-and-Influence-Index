@@ -16,7 +16,7 @@ contract SocialScoreChain {
     event ScoreUpdated(address indexed user, int256 delta, uint256 newScore);
 
     modifier profileExists(address user) {
-        require(profiles[user].exists, "Profile does not exist");
+        require(profiles[user].exists, "Profile doesn't exist");
         _;
     }
 
