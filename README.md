@@ -4,7 +4,7 @@
 
 SocialScoreChain enables users to maintain and grow decentralized social reputation profiles through community-driven voting. Each account has a public score based on verified actions and peer influence.
 
-## 🎯 Project Vision
+## 🎯 Project Vision 
 
 To shift social trust and influence metrics from centralized platforms to transparent and immutable ledgers, creating a decentralized social capital system.
 
